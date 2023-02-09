@@ -1,10 +1,8 @@
 package com.alfsuace.iesAlonosoMadrigal.data;
-
+import java.util.List;
 public class PupilDataStore {
-    import java.util.List;
 
-    public class ChasisDataStore {
-        private static ChasisDataStore instance = null;
+        private static PupilDataStore instance = null;
         private TreeMap<Integer, Pupil> dataStore = new TreeMap<>();
 
         public void add(Pupil pupil){

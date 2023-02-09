@@ -1,7 +1,7 @@
 package com.alfsuace.iesAlonosoMadrigal.data;
 
 public class TeacherDataStore {
-    private static PupilDataStore.ChasisDataStore instance = null;
+    private static TeacherDataStore instance = null;
     private TreeMap<Integer, Teacher> dataStore = new TreeMap<>();
 
     public void add(Teacher teacher){
