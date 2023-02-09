@@ -33,11 +33,11 @@ public class Course {
         this.description = description;
     }
 
-    public Classroom getAulas() {
+    public Classroom getClassroom() {
         return classroom;
     }
 
-    public void setAulas(Classroom classroom) {
+    public void setClassroom(Classroom classroom) {
         this.classroom = classroom;
     }
 }
