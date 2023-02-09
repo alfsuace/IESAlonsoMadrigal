@@ -7,8 +7,6 @@ public class Classroom {
     private Integer capacity;
 
 
-    //getters y setters
-
     public String getId() {
         return id;
     }

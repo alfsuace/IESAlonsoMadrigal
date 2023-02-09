@@ -7,8 +7,6 @@ public class Teacher extends Person {
     private Date registDate;
 
 
-    //Getters and Setters
-
     public String getAcademicTitle() {
         return academicTitle;
     }

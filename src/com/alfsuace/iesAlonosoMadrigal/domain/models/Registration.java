@@ -6,7 +6,6 @@ public class Registration {
     private Course course;
 
 
-    //Getters and Setters
     public String getId() {
         return id;
     }

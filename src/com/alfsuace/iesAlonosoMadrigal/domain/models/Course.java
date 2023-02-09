@@ -8,7 +8,6 @@ public class Course {
     private Classroom classroom;
 
 
-    //getters y setters
 
     public String getId() {
         return id;

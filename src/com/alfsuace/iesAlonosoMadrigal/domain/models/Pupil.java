@@ -6,8 +6,6 @@ public class Pupil extends Person {
     private String email;
 
 
-    //Getters and Setters
-
     public String getMadre() {
         return mother;
     }

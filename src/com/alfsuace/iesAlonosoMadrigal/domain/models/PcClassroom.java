@@ -6,8 +6,6 @@ public class PcClassroom extends Classroom {
     private String pcType;
 
 
-    //getters y setters
-
     public Integer getPcNumber() {
         return pcNumber;
     }

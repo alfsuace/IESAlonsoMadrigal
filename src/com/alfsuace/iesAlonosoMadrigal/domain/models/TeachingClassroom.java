@@ -6,8 +6,6 @@ public class TeachingClassroom extends Classroom {
     private String boardsType;
 
 
-    //getters y setters
-
     public Integer getChairs() {
         return chairs;
     }
